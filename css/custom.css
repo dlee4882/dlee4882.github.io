@@ -48,7 +48,7 @@ a.navbar-brand{
 }
 
 	a.float-nav-link{
-		font-family: 'Lato', Sans-Serif;
+		font-family: 'Titillium Web', sans-serif;
 		color: #595959;
 		font-size: 14px;
 		font-weight: 600;
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	h2.welcome-special-sub{
-		font-family: 'Lato', Sans-Serif;
+		font-family: 'Titillium Web', sans-serif;
 		font-size: 30px;
 	}
 
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 p, li, span, a {
-	font-family: 'Lato', Sans-Serif;
+	font-family: 'Titillium Web', sans-serif;
 	text-align: justify;
 	font-weight: 300;
 }
